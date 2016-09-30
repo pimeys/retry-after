@@ -12,7 +12,7 @@ documentation = "https://jwilm.github.io/retry-after/retry_after/"
 version = "0.2.21"
 
 [dependencies.hyper]
-version = "0.7"
+version = "0.9.10"
 
 [dev-dependencies]
 httparse = "1.1"
